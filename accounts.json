@@ -1,0 +1,38 @@
+{
+  "admin": {
+    "password": "admin123",
+    "account_type": "admin",
+    "banned": false,
+    "haf_coin": 999,
+    "unlocked_features": [
+      "scroll_speed",
+      "auto_aim",
+      "error_hint",
+      "extra_life"
+    ]
+  },
+  "Orange": {
+    "password": "12345",
+    "account_type": "user",
+    "banned": false,
+    "haf_coin": 15,
+    "unlocked_features": [],
+    "shop_disabled": false
+  },
+  "cdfeatvegetable1": {
+    "password": "cdf",
+    "account_type": "user",
+    "banned": false,
+    "haf_coin": 0,
+    "unlocked_features": []
+  },
+  "zhuyubai": {
+    "password": "zhuyubai",
+    "account_type": "user",
+    "banned": true,
+    "haf_coin": 3,
+    "unlocked_features": [],
+    "enabled_features": {},
+    "shop_disabled": true
+  }
+}
